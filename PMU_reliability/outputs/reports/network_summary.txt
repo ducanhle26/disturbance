@@ -1,0 +1,48 @@
+PMU RELIABILITY FRAMEWORK - NETWORK ANALYSIS SUMMARY
+============================================================
+
+Analysis Date: 2026-01-01 02:20:08
+
+DATA OVERVIEW
+----------------------------------------
+Total PMU Sections: 533
+Total Disturbance Events: 9369
+Sections with Events: 765
+Time Range: 2009-01-22 17:38:29.200000 to 2022-08-15 08:08:00
+
+NETWORK STATISTICS
+----------------------------------------
+Mean Events per Section: 12.00
+Median Events per Section: 5.00
+Std Dev: 24.68
+Max Events: 301
+Min Events: 1
+
+RISK DISTRIBUTION
+----------------------------------------
+High Risk Sections: 1
+Medium Risk Sections: 190
+Low Risk Sections: 165
+
+TOP 20 HIGHEST RISK SECTIONS
+----------------------------------------
+Rank  1: Section  150 (Score: 70.8, Events: 301)
+Rank  2: Section 1441 (Score: 55.7, Events: 6)
+Rank  3: Section  495 (Score: 54.0, Events: 157)
+Rank  4: Section   80 (Score: 49.9, Events: 124)
+Rank  5: Section  886 (Score: 43.9, Events: 45)
+Rank  6: Section  244 (Score: 43.9, Events: 43)
+Rank  7: Section   54 (Score: 43.9, Events: 42)
+Rank  8: Section  624 (Score: 43.8, Events: 41)
+Rank  9: Section  562 (Score: 43.3, Events: 37)
+Rank 10: Section  228 (Score: 43.1, Events: 36)
+Rank 11: Section  873 (Score: 43.0, Events: 35)
+Rank 12: Section  863 (Score: 42.7, Events: 42)
+Rank 13: Section  443 (Score: 42.4, Events: 32)
+Rank 14: Section  918 (Score: 42.3, Events: 51)
+Rank 15: Section 1223 (Score: 42.2, Events: 42)
+Rank 16: Section   90 (Score: 42.0, Events: 70)
+Rank 17: Section 1524 (Score: 41.9, Events: 24)
+Rank 18: Section 1172 (Score: 41.9, Events: 28)
+Rank 19: Section  774 (Score: 41.5, Events: 25)
+Rank 20: Section  876 (Score: 41.4, Events: 40)
