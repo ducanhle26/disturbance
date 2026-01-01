@@ -1,0 +1,302 @@
+Timestamp,Event_Location,Cause,Operations,SectionID
+2022-07-21 19:45:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Heavy weather in area, trip and reclose, DTF 11.7",1.0,150.0
+2022-06-10 05:44:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Fixico 9 opened and re-closed. Cromwell Tap 31 open at the time. Weather in the area.,1.0,150.0
+2022-05-28 06:07:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - PSO reports Weleetka 61A tripped and PSO reports they reclose by  SCADA.   Cromwell Tap 31 was open at the time for fault study so Fixico PCB 9 did not operate. No OGE load was affected.  PSO does not have a distant to fault on that line.,,150.0
+2022-05-04 18:56:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Tornado in area    Down phase found between Fixico and Fixico Tap",1.0,150.0
+2022-02-20 07:12:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Cromwell 31 open,1.0,150.0
+2021-12-17 09:57:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - 69kV sw 31 open at Cromwell for fault test,1.0,150.0
+2021-10-10 21:22:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Known storm in area.  Cromwell Tap 31 open",1.0,150.0
+2021-09-30 13:23:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Lightning - Trip / close 1x DCC and PSO notified, PSO Weleetka is deenergized for outage; OGE carrying OMPA Wetumka",1.0,150.0
+2021-09-02 13:17:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - No known weather in area. PSO did indicate they tripped open at PSO Weleetka. Notified DCC & OMPA.   Cromwell Tap 31 was closed due to high loading on 8/31/21 and continued high temps and flows for the week and Overloads on the Fixico/Earlsboro Corner 69kV line FTLO of the Fixico/ PSO Weleetka / PSO Earlsboro 138kV line.,1.0,150.0
+2021-08-30 19:37:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - No known weather in area. PSO did indicate they tripped open at PSO Weleetka.,1.0,150.0
+2021-07-15 12:33:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - DCC & OMPA notified. No weather in area.,1.0,150.0
+2021-05-03 23:54:49.563,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Cromwell Tap 31 switch was open for studies.,1.0,150.0
+2020-12-07 13:23:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - confirmed PSO and OMPA  clear weather,1.0,150.0
+2020-09-21 15:38:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Clear weather.,1.0,150.0
+2020-09-20 08:05:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2020-09-09 02:45:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Cause unknown, DCC and OMPA notified. PSO is open at their Weleekta 61A prior to trip.",1.0,150.0
+2020-09-08 10:38:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Cause unknown, DCC and OMPA notified. PSO is open at their Weleekta 61A prior to trip.",1.0,150.0
+2020-09-04 17:57:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - No known weather in area.,1.0,150.0
+2020-08-31 10:44:25.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Storms in area",1.0,150.0
+2020-08-30 03:47:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2020-08-19 15:57:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - No known weather in area.,1.0,150.0
+2020-08-09 17:24:45.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - there is two DTF on the detail layer DTF 16.9 and DTF 17.1////  both relays showed c phase target.,1.0,150.0
+2020-08-06 20:11:19.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - DTF 11.9,1.0,150.0
+2020-07-26 14:50:30.933,69KV Fixico 9 to PSO Weleetka 61A,Unknown - PSO Weleetka switch Open for work.    From Fixico DTF 87L-9 3.7 miles.  DTF 21-9 3.3 miles.  Clear Weather.  Trip and reclose10 second later on schedule .  Email sent.,1.0,150.0
+2020-07-23 09:23:49.600,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2020-07-02 20:17:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - clear weather,1.0,150.0
+2020-06-23 20:17:09.000,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Tripped and reclosed, cause unknown",1.0,150.0
+2020-06-23 02:48:41.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Weather going through area, tripped and reclosed",1.0,150.0
+2020-06-17 20:54:43.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Fixico/PSO Weleekta 69kV line tripped/reclosed. Cause unknown. DCC and PSO notified. DTF from Fixico is 18.9 miles towards PSO Weleekta.,1.0,150.0
+2020-06-15 11:24:00.000,69KV Fixico 9 to PSO Weleetka 61A,Foreign Interference - clear weather  Investigation by field personnel found burned vulture and pitted cross arm at Pole 8/11 - located approximately 2.5 miles from Fixico Tap on way to Cromwell.,1.0,150.0
+2020-06-05 05:33:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - No inclement weather in the Area,1.0,150.0
+2020-06-01 09:02:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Cromwell Tap 31 was closed for PSO work at Weleetka. This blinked OMPA Wetumka as well.,1.0,150.0
+2020-05-27 19:38:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - weather in area  Cromwell Tap 31 was closed, blinking OMPA Wetumka.",1.0,150.0
+2020-05-16 17:33:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - No severe weather in the area but their is some slight rain.,1.0,150.0
+2020-05-15 12:34:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Storms in the area.",1.0,150.0
+2020-05-15 12:27:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Storms in the area.",1.0,150.0
+2020-04-28 19:52:00.000,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Weather in area.,1.0,150.0
+2019-11-10 08:43:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2019-10-20 22:25:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Storms in the area, Cromwell Tap 31 was open at the time.",1.0,150.0
+2019-10-20 22:24:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Storms in the area, Cromwell Tap 31 was open at the time.",1.0,150.0
+2019-09-26 06:35:06.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2019-09-04 19:42:16.383,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2019-09-04 19:29:31.383,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Paoli 112 tripped at the same time and is a Mis OP,1.0,150.0
+2019-08-14 19:04:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - No weather reported in area.,1.0,150.0
+2019-07-02 14:41:48.133,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Possible storms in area.,1.0,150.0
+2019-06-23 09:44:24.700,69KV Fixico 9 to PSO Weleetka 61A,"Lightning - Trip and reclose. Severe weather in the area, Notified DCC, PSO & OMPA. PSO closed PSO Weleekta 61A at 09:45 6/23/19.",1.0,150.0
+2019-06-02 21:00:36.503,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Trip and reclose, No weather in the area. Notified DCC, OMPA & PSO. PSO Weleekta 61A did not trip. Cromwell Tap 31 Opened and Caution Tagged on 5/31/19 per S0786.",1.0,150.0
+2019-04-04 02:03:19.767,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2019-02-23 17:09:54.237,69KV Fixico 9 to PSO Weleetka 61A,Failed AC Circuit Equipment - Pole down on Fixico Tap to Kolache.  Cromwell Switch 31 open for investigation.  Sectionalized at Fixico Tap 35 closed Fixico 9 and picked up Cromwell Load.  DCC tying load out in field.,4.0,150.0
+2018-10-19 14:42:29.067,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Weather in area.  Cromwell Tap Switch 31 was closed today at 14:42.  Kolache line was on outage and Isolated.  PSO 61A did not reclose and had to be closed by PSO operator.,1.0,150.0
+2018-09-04 07:09:21.363,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Cromwell Tap 31 is currently open.,1.0,150.0
+2018-08-24 14:27:50.973,69KV Fixico 9 to PSO Weleetka 61A,Fire - No known storms in area at this time.   Dispatching members out to Fixico Tap.   Tim Martin was in area and heading back to Fixico for possible identification of fault   Sectionalized at Fixico Tap 33 and closed in 9 to pick up Kolache.  Opened up Cromwell Tap 30 and closed in Cromwell Tap 31 to pick up Cromwell via OPMA Wetumka/PSO Weleekta.    Primary DTF 11.3 miles  Backup DTF 10.7 miles     Findings; Pole broke in half which caused a fire. Pole 12/11 switched out as per  S1420.,4.0,150.0
+2018-08-19 18:43:49.237,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Possible weather in area.  Fixico 9 reclosed.  PSO Weleeka 61A reclosed.  DTF 17,1.0,150.0
+2018-08-17 07:33:02.647,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Weather in area.  Fixico 9 reclosed.  PSO Weleekta 61A  did not Auto-reclose, however closed by scada.  DTF 17.9 Notified DCC, PSO & OMPA of trip and reclose & affected loads.",1.0,150.0
+2018-08-16 20:11:19.597,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Fixico 9 reclosed.  PSO Weleeka 61A  did not reclosd.  DTF 22.8,1.0,150.0
+2018-08-16 19:38:50.567,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Fixico 9 reclosed.  PSO Weleeka 61A reclosed.  DTF 11.3,1.0,150.0
+2018-08-16 18:30:45.793,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Fixico 9 reclosed.  PSO Weleeka 61A did not reclose.  DTF 26.4 or on PSO side of the line.  Closed by PSO operator at 18:33",1.0,150.0
+2018-08-10 19:39:30.297,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - weather in area",1.0,150.0
+2018-08-07 18:01:51.053,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Weather in area",1.0,150.0
+2018-07-30 08:02:14.803,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2018-07-30 05:07:19.697,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2018-07-30 04:57:46.130,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2018-07-30 03:28:41.097,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2018-07-29 08:03:17.407,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - PSO Wetumka closed back.",1.0,150.0
+2018-07-29 08:01:16.200,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - PSO Wetumka closed back.",1.0,150.0
+2018-07-24 20:37:07.030,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Opened Kolache C71 @ 2037:10, Fixico PCB 9 Tripped @ 2037:27.  Might be related?",1.0,150.0
+2018-07-18 04:40:13.967,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Weather in area. DTF 20 miles outside Fixico,1.0,150.0
+2018-07-14 20:14:02.403,69KV Fixico 9 to PSO Weleetka 61A,Unknown - DTF 18 miles from Fixico.,1.0,150.0
+2018-06-26 18:32:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Opened Fixico Tap 32. Tested line from PSO 61A , breaker closed and held.  Found a down pole Structure 3/3. All loads were restored at 1952.",3.0,150.0
+2018-06-24 15:47:21.377,69KV Fixico 9 to PSO Weleetka 61A,Lightning - DTF 11 miles,1.0,150.0
+2018-06-21 21:07:18.767,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2018-06-17 20:43:56.700,69KV Fixico 9 to PSO Weleetka 61A,Unknown - No weather in the area. Notified DCC. OMPA & PSO.,1.0,150.0
+2018-06-12 11:48:01.733,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2018-06-12 09:15:40.903,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2018-05-31 04:57:38.603,69KV Fixico 9 to PSO Weleetka 61A,"Lightning - Weather in the area. Notified DCC, PSO & OMPA. Personnel in route due to loss of comms.",1.0,150.0
+2018-05-31 04:48:32.700,69KV Fixico 9 to PSO Weleetka 61A,"Lightning - Severe weather in the area. Notified DCC, PSO & OMPA.",1.0,150.0
+2018-05-31 04:43:06.933,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Severe weather in the area. Notified DCC, PSO & OMPA.",1.0,150.0
+2018-05-27 06:26:52.617,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - No weather in the area. Notified DCC, PSO & OMPA.",1.0,150.0
+2018-05-25 11:04:48.157,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Severe weather in the area. Notified DCC, PSO & OMPA.",3.0,150.0
+2018-05-25 11:03:31.437,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Severe weather in the area. Notified DCC, PSO & OMPA.",3.0,150.0
+2018-05-25 10:59:53.763,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Severe weather in the area. Notified DCC, PSO & OMPA.",3.0,150.0
+2018-05-25 10:59:10.617,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Severe weather in the area. Notified DCC, PSO & OMPA.",3.0,150.0
+2018-05-24 15:03:52.503,69KV Fixico 9 to PSO Weleetka 61A,Unknown - DTF shows 26.3 miles,1.0,150.0
+2018-05-24 15:03:52.497,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Trip and reclose. Unknown cause. DTF 26.3 miles.,1.0,150.0
+2018-05-24 14:10:00.700,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2018-05-20 04:11:47.200,69KV Fixico 9 to PSO Weleetka 61A,Lightning - weather in area,1.0,150.0
+2018-05-20 04:06:23.397,69KV Fixico 9 to PSO Weleetka 61A,Lightning - weather in area,1.0,150.0
+2018-05-20 03:44:41.593,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - weather in area",2.0,150.0
+2018-05-20 01:30:38.833,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - weather in area",1.0,150.0
+2018-05-03 08:52:43.500,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Storms in the area.  DTF indicates fault occurred about 4 miles from Fixico,1.0,150.0
+2018-04-02 02:26:09.700,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2018-03-26 22:57:15.500,69KV Fixico 9 to PSO Weleetka 61A,"Lightning - Severe weather in the area. Notified PSO, DCC and OMPA. PSO tripped and reclosed one time.",1.0,150.0
+2018-03-02 14:58:04.573,69KV Fixico 9 to PSO Weleetka 61A,"Failed AC Circuit Equipment - Notified DCC, OMPA & PSO.",4.0,150.0
+2017-10-21 22:27:02.740,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - weather in area",1.0,150.0
+2017-10-10 14:46:56.377,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2017-09-17 15:15:51.933,69KV Fixico 9 to PSO Weleetka 61A,"Lightning - Severe weather in the area. Notified DCC, PSO & OMPA.",1.0,150.0
+2017-08-15 18:24:45.367,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2017-08-06 04:28:56.377,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2017-08-06 03:42:02.673,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2017-08-06 03:22:13.237,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2017-08-04 18:36:46.063,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Fixico PCB closed back but PSO PCB 61A did not.  DTF 20.5 miles but there is a three way terminal 5 miles out.,1.0,150.0
+2017-07-23 17:55:30.843,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2017-07-23 16:28:27.600,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2017-07-23 00:24:12.767,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2017-07-02 17:05:56.033,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Storms in the area,1.0,150.0
+2017-07-02 16:58:10.940,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",2.0,150.0
+2017-06-30 19:06:25.613,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2017-06-30 19:04:36.447,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2017-06-30 18:31:00.270,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2017-06-30 18:27:21.507,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2017-05-29 11:41:45.003,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2017-05-19 16:45:36.670,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2017-05-19 11:53:26.503,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2017-05-18 20:14:00.653,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2017-05-17 18:34:59.397,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2017-05-10 15:45:50.100,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Broken insulator between PSO Weleekta 4824 & 4823.",1.0,150.0
+2017-04-29 20:53:01.533,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2017-03-29 05:36:10.733,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Storms in the area.",1.0,150.0
+2017-02-21 02:39:47.097,69KV Fixico 9 to PSO Weleetka 61A,Unknown - No weather.  Closed back in good order.,1.0,150.0
+2016-12-17 07:54:39.837,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - PSO Weleekta PCB 61A operated twice and stayed open.  Fixico PCB opened and closed back.  DTF 14.2 miles",1.0,150.0
+2016-11-22 06:43:08.570,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Light rain in the area. Notified DCC, PSO & OMPA.",1.0,150.0
+2016-11-11 10:08:54.930,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2016-10-20 00:18:29.837,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Fixico/PSO Weeletka 69kV tripped during storms, PCB 9 stayed open, should of reclosed. PSO Operator closed their Breaker 61A @ 002100. Fixico PCB 9 shows (Control Failure) after SCADA command to close. Personel called out to investigate. Close coil and 351 relay burnt up.",1.0,150.0
+2016-10-12 09:15:53.137,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - weather in area.",1.0,150.0
+2016-10-09 16:35:20.630,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2016-10-05 01:23:25.533,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2016-09-27 11:07:56.837,69KV Fixico 9 to PSO Weleetka 61A,Unknown - HLH 16-043N Issued to PSO. PSO advised that workers were on lunch and not on the line. Targets indicated an instantaneous overcurrent C phase to ground at 23.2 miles from Fixico.,1.0,150.0
+2016-09-20 18:44:28.423,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Fixico did not auto-reclose due to HLH being issued daily to PSO. Line reclosed from PSO end.1,1.0,150.0
+2016-09-03 18:15:03.367,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Fixico PCB 9 did not close due to HLH to PSP Weleekta. Contacted PSO & Closed back,1.0,150.0
+2016-08-29 13:48:06.070,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Weather in the area.",1.0,150.0
+2016-08-29 13:29:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Weather was in the area.",1.0,150.0
+2016-08-18 20:07:28.497,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2016-07-14 13:21:36.000,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2016-07-07 11:29:16.067,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - PSO Welleetka 61A didn't operate.  Clouds in the area.",1.0,150.0
+2016-07-04 01:47:49.300,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2016-07-03 21:53:54.267,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2016-07-03 21:39:19.267,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2016-07-03 21:20:25.633,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2016-06-26 21:22:32.467,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2016-05-20 20:53:36.967,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2016-05-20 20:53:36.967,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2016-04-29 07:18:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Trip and reclose,1.0,150.0
+2016-04-17 09:19:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Weather in the area",1.0,150.0
+2016-04-17 07:46:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Weather in the area",1.0,150.0
+2016-03-01 02:07:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2015-11-17 03:26:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Lightning - Severe Weather in the area. Notified DCC, OMPA &PSO  Dispatched personnel to isolate fault.  Found guard structures that fell into line.",2.0,150.0
+2015-10-03 18:50:00.000,69KV Fixico 9 to PSO Weleetka 61A,Lightning - PSO closed theirs manually.  DTF shows 2.3 & 2.6 mile form Fixico,1.0,150.0
+2015-09-13 10:13:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Distance to fault was 9.5 miles,1.0,150.0
+2015-08-22 12:35:00.000,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Weather in the area.,1.0,150.0
+2015-08-22 09:53:00.000,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Weather in the area. DCC & PSO Notified.,1.0,150.0
+2015-08-08 20:35:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2015-07-03 16:36:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2015-06-30 09:22:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - PSO technician working in Weeletka Sub,1.0,150.0
+2015-06-24 21:18:50.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - PSO Weleetka operated 2 times. DTF was 19.2 miles,1.0,150.0
+2015-06-16 15:30:00.000,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Weather in the area. Notified DCC and PSO.,1.0,150.0
+2015-05-23 19:38:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2015-05-16 23:23:00.000,69KV Fixico 9 to PSO Weleetka 61A,Lightning - PSO Wekeeka  PBC 61A out on maint,1.0,150.0
+2015-05-16 21:30:00.000,69KV Fixico 9 to PSO Weleetka 61A,Lightning - PSO Weleeta 61A  is open on maint,2.0,150.0
+2015-05-10 08:40:01.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Storm moving through area.  PSO Weleetka 61A already open for maintenance at time of fault.   Found tree on line near PSO Wetumka Tap.",4.0,150.0
+2015-05-10 08:20:20.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Storm moving through area.  PSO Weleetka 61A already open for maintenance at time of fault.   Found tree on line near PSO Wetumka Tap.",1.0,150.0
+2015-05-08 21:07:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2015-05-07 00:10:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - PSO open on their end for maintenance,1.0,150.0
+2015-05-06 23:45:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Storm in area",1.0,150.0
+2015-05-05 16:47:52.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2015-04-18 22:14:00.000,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2014-12-20 10:31:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - DTF 19.3 miles,1.0,150.0
+2014-11-20 08:19:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2014-11-06 08:18:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - DTF 17.03,1.0,150.0
+2014-11-05 12:20:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - DTF 19.25,1.0,150.0
+2014-10-06 07:08:00.000,69KV Fixico 9 to PSO Weleetka 61A,"Lightning - PSO and DCC notified. DTF Prim 11.98 miles, B/U 12.28 miles.",1.0,150.0
+2014-10-06 00:23:28.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - severe storms in area. PSO Weleetka 61A operated as well.",1.0,150.0
+2014-10-02 09:48:00.000,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2014-10-02 03:57:38.833,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2014-09-21 12:16:16.767,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2014-09-02 09:44:37.867,69KV Fixico 9 to PSO Weleetka 61A,Lightning - PSO feeding the subs.  Fixico is out of service on switching fron Fixico to Fixico tap,,150.0
+2014-08-01 19:28:17.033,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Notified DCC and PSO.,1.0,150.0
+2014-07-28 10:38:48.433,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2014-07-03 19:53:13.133,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2014-06-16 09:59:45.600,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Fixico 69kV PCB 9 opened during a HLH for PSO. Contacted PSO to verify ready to energize line. Unknown reason for operation.,1.0,150.0
+2014-06-12 03:53:15.173,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2014-06-02 06:10:30.303,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Severe weather in the area. Fixico 9 was on supv for a Hot Line Hold preparred to issue to PSO. Verified with PSO Weleekta 61A was open as well. OGE closed first Fixico 9 then PSO closed 61A.,1.0,150.0
+2014-06-02 06:03:54.467,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Severe weather in the area. Fixico 9 was on supv for a Hot Line Hold preparred to issue to PSO. Verified with PSO Weleekta 61A was open as well. OGE closed first Fixico 9 then PSO closed 61A.,1.0,150.0
+2014-06-02 06:01:06.210,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Severe weather in the area. Fixico 9 was on supv for a Hot Line Hold preparred to issue to PSO. Verified with PSO Weleekta 61A was open as well. OGE closed first Fixico 9 then PSO closed 61A.,1.0,150.0
+2014-05-12 17:48:23.203,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2014-05-08 08:55:22.363,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2014-05-08 08:46:15.600,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning",1.0,150.0
+2014-05-03 11:15:57.967,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2014-04-24 06:26:01.127,69KV Fixico 9 to PSO Weleetka 61A,"Lightning - PSO indicated their Weleetka 61A opened as well, PSO closed Weleetka 61A at 0628. Weather in the area. Notified DCC of trip and reclose.",1.0,150.0
+2014-03-18 06:02:48.847,69KV Fixico 9 to PSO Weleetka 61A,Power System Condition - Opened by Scada due to excessive operations.   PSO found floater on their side,3.0,150.0
+2014-03-18 05:05:37.330,69KV Fixico 9 to PSO Weleetka 61A,Unknown,2.0,150.0
+2014-03-18 04:00:18.513,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Distance to fault 25.7 miles,1.0,150.0
+2014-03-18 03:43:59.507,69KV Fixico 9 to PSO Weleetka 61A,Unknown - PSO operated at their end as well. Their breakers stayed open after PCB 9 closed back.,1.0,150.0
+2013-12-21 09:28:05.433,69KV Fixico 9 to PSO Weleetka 61A,"Vegetation - DURING ICE STORM: Tree on line, broken pole 4.5 miles from Fixico. Customer restored from PSO side after problem isolated",4.0,150.0
+2013-12-12 10:29:12.487,69KV Fixico 9 to PSO Weleetka 61A,Other - Received a report from PSO that they had a breaker on their system that was on fire causing the temporary operation of the Fixico/PSO Weletka 69KV line section,3.0,150.0
+2013-11-28 05:11:29.700,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Cause of the trip is unknown at this time.,1.0,150.0
+2013-10-19 17:02:33.767,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2013-10-09 09:45:20.233,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Reclosing disabled due to HLH  issued to PSO on Fixico PCB 9. PSO 61A closed at 0948, 3 minute outage at Cromwell and Kolache.",1.0,150.0
+2013-10-06 15:14:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Unknown at this time,1.0,150.0
+2013-09-19 19:26:14.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - Fixico 9 did not close back automatically because it was still on supv due to a HLH per S1353 that was issued earlier.",1.0,150.0
+2013-09-09 11:59:36.567,69KV Fixico 9 to PSO Weleetka 61A,Unknown - A HLH is currently issued to Chad Agee from Par Electric on this line section. The line section operated and did not close. The contractor was called to verify the cause of the operation. The contractor stated that his crew had no idea the reason for the operation and that all personell are safe and in the clear. He states that they are pulling wire over the line section but there is at least 20 feet of clearance from the energized line.,1.0,150.0
+2013-08-16 06:51:43.700,69KV Fixico 9 to PSO Weleetka 61A,Unknown - PSO Weleetka di operate as well. David Streater has been notified and will be patroling the line to verify problem.,1.0,150.0
+2013-08-14 11:41:45.567,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - No weather in ther area, Dean Beaudoin and David Streater patrolled the line sections around Fixico Tap, 5 miles towards Fixico, 5 miles towards Kolache and 5 miles towards Cromwell.  Transmission lines and structures looked okay, but both David and Dean did spot live buzzards perched on cross arms and short standoffs, they did not see any dead buzzards.",1.0,150.0
+2013-08-09 01:30:57.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - PSO Weleetka 61A di operate",1.0,150.0
+2013-08-09 00:44:11.400,69KV Fixico 9 to PSO Weleetka 61A,"Weather, excluding lightning - PSO Weleetka 61A did operate",1.0,150.0
+2013-08-08 01:02:41.200,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2013-07-26 20:19:15.630,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2013-07-26 19:26:35.867,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2013-07-14 19:39:28.367,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2013-06-29 20:09:09.733,69KV Fixico 9 to PSO Weleetka 61A,,1.0,150.0
+2013-06-29 19:56:22.633,69KV Fixico 9 to PSO Weleetka 61A,,1.0,150.0
+2013-06-28 19:50:50.600,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Clear weather.,1.0,150.0
+2013-06-15 11:48:25.233,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Weather in area.,1.0,150.0
+2013-05-29 21:23:12.567,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Weather in area.,1.0,150.0
+2013-05-21 13:18:25.933,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2013-05-20 17:11:24.367,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Storms in area.,1.0,150.0
+2013-05-16 10:58:37.833,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2013-05-15 17:21:34.870,69KV Fixico 9 to PSO Weleetka 61A,Lightning - PSO Weleekta Closed back their 61A breaker at 1722,1.0,150.0
+2013-05-09 05:44:00.800,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Storms in area,1.0,150.0
+2013-05-08 23:16:00.000,69KV Fixico 9 to PSO Weleetka 61A,Lightning - Storms in the area.  Weleekta 61A closed by PSO SCADA.,1.0,150.0
+2013-05-08 22:49:09.600,69KV Fixico 9 to PSO Weleetka 61A,Lightning,1.0,150.0
+2013-04-16 10:59:55.200,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2013-04-10 06:55:25.633,69KV Fixico 9 to PSO Weleetka 61A,"Weather - Verified with PSO System Operator, PSO Weleetka 61A did reclose.",1.0,150.0
+2013-03-30 11:30:47.703,69KV Fixico 9 to PSO Weleetka 61A,"Weather - PSO Weleetka didn't reclose auto, closed at 1132.",1.0,150.0
+2013-03-30 05:35:13.070,69KV Fixico 9 to PSO Weleetka 61A,"Weather - PSO Weleetka didn't reclose auto, closed by PSO",1.0,150.0
+2013-03-29 15:05:37.833,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2013-03-29 14:48:35.100,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2013-02-21 07:40:29.600,69KV Fixico 9 to PSO Weleetka 61A,System Conditions,1.0,150.0
+2013-01-28 11:52:15.233,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2013-01-28 11:03:18.340,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2013-01-28 10:51:16.033,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2013-01-27 04:44:04.463,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2012-12-20 02:40:54.700,69KV Fixico 9 to PSO Weleetka 61A,"Other - Fault between PSO Weleetka and OMPA Wetumka, PSO Isolated",4.0,150.0
+2012-10-17 09:28:44.067,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2012-09-26 23:52:41.697,69KV Fixico 9 to PSO Weleetka 61A,Weather - Fixico 69kV PCB 9 did operate due to being open and on manual for Fixico/Fixico Tap line clearance.  Radial fed from PSO,,150.0
+2012-07-31 08:15:01.470,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2012-07-28 18:40:43.823,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2012-07-13 17:58:46.527,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2012-07-07 07:53:52.970,69KV Fixico 9 to PSO Weleetka 61A,Unknown - PSO Weleetka 61A closed by PSO operator.,1.0,150.0
+2012-07-07 03:40:58.160,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2012-06-21 20:52:55.667,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2012-06-15 05:32:50.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather - TIME,A,B,G,50/51,INST,Z1",1.0,150.0
+2012-06-15 05:08:08.000,69KV Fixico 9 to PSO Weleetka 61A,"Weather - TIME,A,B,G,50/51,Z1,INST",1.0,150.0
+2012-05-20 04:56:43.463,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2012-04-26 09:52:19.637,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Had helicopter fly entire line (including PSO's short portion) and they did not see any problems.,,150.0
+2012-04-25 09:09:13.063,69KV Fixico 9 to PSO Weleetka 61A,"Unknown - Fixico 9 was out for maintenance, PSO reclosed by Scada",,150.0
+2012-04-05 16:24:08.587,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2012-03-20 06:26:28.240,69KV Fixico 9 to PSO Weleetka 61A,Weather - Trip & reclose,1.0,150.0
+2012-03-19 17:54:54.833,69KV Fixico 9 to PSO Weleetka 61A,Weather,2.0,150.0
+2011-12-06 10:07:43.843,69KV Fixico 9 to PSO Weleetka 61A,Other,1.0,150.0
+2011-12-02 13:18:03.947,69KV Fixico 9 to PSO Weleetka 61A,Unknown - PSO 61A did not reclose. PSO closed 61A and it held.,1.0,150.0
+2011-11-26 19:05:28.903,69KV Fixico 9 to PSO Weleetka 61A,Weather - PSO had fault on their end of line,4.0,150.0
+2011-11-07 04:09:17.063,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2011-11-06 23:12:56.467,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2011-09-12 06:04:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2011-08-29 06:15:47.043,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2011-08-10 02:43:19.817,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2011-08-10 02:33:00.000,69KV Fixico 9 to PSO Weleetka 61A,Weather,2.0,150.0
+2011-08-10 02:30:15.597,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2011-07-12 18:40:09.630,69KV Fixico 9 to PSO Weleetka 61A,"Weather - Tested from both ends with Cromwell 31 open, no fault found, tied back with PSO @ 2004",4.0,150.0
+2011-07-12 18:06:32.237,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2011-06-21 11:50:38.667,69KV Fixico 9 to PSO Weleetka 61A,Weather - Fixico/Fixico Tap 69kV line was out for maintenance on S1018 so it did not operate,1.0,150.0
+2011-06-13 10:45:13.560,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2011-06-11 16:42:00.283,69KV Fixico 9 to PSO Weleetka 61A,Weather - PSO closed B/S their 61A breaker.,1.0,150.0
+2011-04-27 09:42:38.650,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2011-04-24 13:28:00.000,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2011-03-29 15:26:38.933,69KV Fixico 9 to PSO Weleetka 61A,Other,4.0,150.0
+2010-10-31 09:40:34.990,69KV Fixico 9 to PSO Weleetka 61A,Weather - PSO 61A tripped & reclosed auto.,1.0,150.0
+2010-10-30 14:42:59.787,69KV Fixico 9 to PSO Weleetka 61A,Weather - PSO breaker 61A also opened & reclosed auto.,1.0,150.0
+2010-10-14 18:57:54.633,69KV Fixico 9 to PSO Weleetka 61A,Unknown - PSO Weleetka did not operate,1.0,150.0
+2010-09-13 11:53:37.500,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2010-09-04 08:25:00.000,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2010-09-04 08:12:33.933,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2010-08-24 11:31:19.970,69KV Fixico 9 to PSO Weleetka 61A,Weather - PSO Weleetka 61A closed @ 11:31:01,1.0,150.0
+2010-07-09 15:00:51.580,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2010-07-06 17:46:50.673,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2010-07-06 13:44:52.470,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2010-05-31 02:10:07.680,69KV Fixico 9 to PSO Weleetka 61A,Weather - This line sectionalized from Fixico Tap switch 33 towards PSO Weleetka,1.0,150.0
+2010-05-15 11:18:03.137,69KV Fixico 9 to PSO Weleetka 61A,Unknown - Cromwell is radialed from PSO Weleekta due to Storm damage between Fixico PCB 9 & Cromwell sw 30,1.0,150.0
+2010-05-10 18:22:42.697,69KV Fixico 9 to PSO Weleetka 61A,Other - 10MAY10-Storm-Tornadoes.  Fixico 9 to be closed on  (S0754).,1.0,150.0
+2010-01-29 07:38:15.787,69KV Fixico 9 to PSO Weleetka 61A,Weather - DO# 27,4.0,150.0
+2009-09-24 14:24:57.790,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2009-09-23 18:21:15.493,69KV Fixico 9 to PSO Weleetka 61A,Unknown,1.0,150.0
+2009-09-21 16:52:47.933,69KV Fixico 9 to PSO Weleetka 61A,Weather,6.0,150.0
+2009-09-17 15:56:16.397,69KV Fixico 9 to PSO Weleetka 61A,Weather - 395,2.0,150.0
+2009-09-12 06:58:29.423,69KV Fixico 9 to PSO Weleetka 61A,Unknown - 396,2.0,150.0
+2009-08-20 07:30:16.600,69KV Fixico 9 to PSO Weleetka 61A,Weather - 397,2.0,150.0
+2009-08-11 00:35:27.970,69KV Fixico 9 to PSO Weleetka 61A,Weather,2.0,150.0
+2009-08-10 20:08:05.733,69KV Fixico 9 to PSO Weleetka 61A,Weather,4.0,150.0
+2009-08-06 11:36:03.700,69KV Fixico 9 to PSO Weleetka 61A,Weather,2.0,150.0
+2009-08-01 19:56:38.533,69KV Fixico 9 to PSO Weleetka 61A,Weather,2.0,150.0
+2009-07-22 20:12:25.633,69KV Fixico 9 to PSO Weleetka 61A,Unknown,2.0,150.0
+2009-07-09 05:10:43.137,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2009-06-10 16:04:25.767,69KV Fixico 9 to PSO Weleetka 61A,Other,4.0,150.0
+2009-05-24 05:39:51.933,69KV Fixico 9 to PSO Weleetka 61A,Unknown,2.0,150.0
+2009-05-12 10:29:20.033,69KV Fixico 9 to PSO Weleetka 61A,Weather,2.0,150.0
+2009-05-09 10:39:50.930,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2009-05-08 21:25:10.997,69KV Fixico 9 to PSO Weleetka 61A,Weather,1.0,150.0
+2009-05-02 18:14:09.940,69KV Fixico 9 to PSO Weleetka 61A,Weather,2.0,150.0
+2009-03-30 14:33:00.000,69KV Fixico 9 to PSO Weleetka 61A,Weather,2.0,150.0
+2009-02-21 12:55:28.170,69KV Fixico 9 to PSO Weleetka 61A,Unknown,4.0,150.0
+2009-02-06 06:57:04.743,69KV Fixico 9 to PSO Weleetka 61A,Unknown - # 24,2.0,150.0
