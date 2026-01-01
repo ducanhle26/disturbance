@@ -1,0 +1,6 @@
+Test,Metric,Value
+trend_test,S_statistic,170372
+trend_test,Z_score,1.4656059075164392
+trend_test,P_value,0.14275568094509072
+trend_test,Trend,No significant trend
+trend_test,Significant,False

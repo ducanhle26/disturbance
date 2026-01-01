@@ -1,0 +1,49 @@
+
+EXECUTIVE SUMMARY: PMU DISTURBANCE ANALYSIS
+============================================
+Generated: 2025-12-31 19:52:55
+
+1. DATA OVERVIEW
+----------------
+• Total PMU Sections: 533
+• Total Disturbance Events: 9369
+• Average Disturbances per Section: 17.6
+
+2. TOP 10 CRITICAL INSIGHTS
+---------------------------
+1. 0 sections classified as CRITICAL risk
+2. 1 sections classified as HIGH risk
+3. Top risk section: 150 (score: 64.8)
+4. Leading cause: 'Unknown' (12.9% of events)
+5. Peak disturbance hour: 10:00
+6. Peak disturbance day: Monday
+
+3. HIGH-PRIORITY SECTIONS
+-------------------------
+• 150: Risk Score 64.8 (High)
+• 495: Risk Score 45.0 (Medium)
+• 862: Risk Score 41.5 (Medium)
+• 886: Risk Score 41.1 (Medium)
+• 259: Risk Score 40.8 (Medium)
+• 997: Risk Score 39.9 (Medium)
+• 876: Risk Score 39.7 (Medium)
+• 1350: Risk Score 39.2 (Medium)
+• 589: Risk Score 39.1 (Medium)
+• 693: Risk Score 39.0 (Medium)
+
+4. RECOMMENDATIONS
+------------------
+• Prioritize maintenance for Critical and High risk sections
+• Focus on the top cause category for prevention measures
+• Schedule inspections during off-peak hours when possible
+• Implement predictive maintenance for aging PMU equipment
+
+5. NEXT STEPS
+-------------
+• Review detailed analysis in individual notebooks
+• Examine visualizations in outputs/figures/
+• Use risk scores for maintenance planning
+• Monitor high-risk sections more frequently
+
+============================================
+END OF EXECUTIVE SUMMARY

@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+outputs/data/
+outputs/figures/
+outputs/models/
+outputs/reports/
+data/*.xlsx
+data/*.csv
+data/*.parquet

@@ -1,0 +1,39 @@
+
+PMU DISTURBANCE DATA QUALITY REPORT
+Generated: 2025-12-31 19:51:54
+==================================================
+
+PMU DATA:
+- Total records: 533
+- Columns: 14
+- Duplicates: 0
+- Memory usage: 0.18 MB
+
+DISTURBANCE DATA:
+- Total records: 9369
+- Columns: 5
+- Duplicates: 12
+- Memory usage: 2.16 MB
+
+MISSING VALUES (PMU):
+TermID              0
+Terminal            0
+Substation          0
+Scheme             62
+Type                0
+Voltage             0
+InService           0
+OutService        529
+Latitude            0
+Longitude           0
+SectionID           0
+PMU Type            0
+SPP Bus Name        8
+SPP Bus Number      0
+
+MISSING VALUES (DISTURBANCE):
+Timestamp           0
+Event_Location      0
+Cause             154
+Operations        215
+SectionID         186
