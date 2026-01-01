@@ -60,6 +60,29 @@ HEATMAP_FIGSIZE = (12, 8)
 EXECUTIVE_SUMMARY_FILE = os.path.join(REPORT_DIR, 'section150_executive_summary.md')
 TECHNICAL_REPORT_FILE = os.path.join(REPORT_DIR, 'section150_technical_report.md')
 
+# Unknown analysis parameters
+UNKNOWN_TIME_LAG_HOURS = 48  # Window for finding related events (±48h)
+UNKNOWN_MIN_CLUE_CONFIDENCE = 0.7  # Threshold for reclassification
+
+# Operational context patterns
+CROMWELL_TAP_PATTERNS = [
+    r'Cromwell Tap 31 open',
+    r'Cromwell Tap 31 closed',
+    r'Cromwell 31 open',
+    r'Cromwell.*closed'
+]
+
+INTERCONNECTION_KEYWORDS = {
+    'PSO': 1.0,      # Weight for criticality score
+    'OMPA': 0.8,
+    'DCC': 0.6,
+    'Weleetka': 0.5,
+    'Wetumka': 0.5
+}
+
+# Hourly analysis
+PEAK_HOUR_FOCUS = 19  # 7 PM
+
 # Visualization file names
 FIGURE_NAMES = {
     'timeline': 'fig1_section150_event_timeline',
@@ -68,5 +91,11 @@ FIGURE_NAMES = {
     'cyclical_patterns': 'fig4_section150_cyclical_patterns',
     'similar_sections': 'fig5_section150_vs_similar_sections',
     'pmu_characteristics': 'fig6_section150_pmu_characteristics',
-    'cumulative_events': 'fig7_section150_cumulative_events'
+    'cumulative_events': 'fig7_section150_cumulative_events',
+    # Extended analysis figures
+    'cromwell_analysis': 'fig8_cromwell_tap_operational_state',
+    'unknown_reclassification': 'fig9_unknown_events_reclassification',
+    'hourly_comparison': 'fig10_hourly_distribution_comparison',
+    '7pm_deep_dive': 'fig11_7pm_peak_multifactor_analysis',
+    'day_hour_heatmap': 'fig12_day_hour_event_heatmap'
 }

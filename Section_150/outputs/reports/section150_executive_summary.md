@@ -1,6 +1,6 @@
 # Section 150 Deep-Dive Analysis
 ## Executive Summary
-*Generated: 2025-12-31 23:19*
+*Generated: 2026-01-01 01:28*
 
 ---
 
@@ -112,6 +112,11 @@ The following figures are available in the `outputs/figures/` directory:
 - **Similar Sections**: `fig5_section150_vs_similar_sections.png`
 - **Pmu Characteristics**: `fig6_section150_pmu_characteristics.png`
 - **Cumulative Events**: `fig7_section150_cumulative_events.png`
+- **Cromwell Analysis**: `fig8_cromwell_tap_operational_state.png`
+- **Unknown Reclassification**: `fig9_unknown_events_reclassification.png`
+- **Hourly Comparison**: `fig10_hourly_distribution_comparison.png`
+- **7Pm Deep Dive**: `fig11_7pm_peak_multifactor_analysis.png`
+- **Day Hour Heatmap**: `fig12_day_hour_event_heatmap.png`
 
 ---
 
